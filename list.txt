@@ -1058,7 +1058,7 @@ blogspot.com
 ||googlescholar.com
 ||googlesource.com
 !--||googlesyndication.com
-!--||googletagmanager.com
+||googletagmanager.com
 !--||googletagservices.com
 ||googleusercontent.com
 .googlevideo.com
@@ -7297,7 +7297,7 @@ xjp.cc
 ||xml-training-guide.com
 xmovies.com
 ||xnxx.com
-!--||xnxx-cdn.com
+||xnxx-cdn.com
 xpdo.net
 ||xpud.org
 .xrentdvd.com
